@@ -1,0 +1,16 @@
+# keep original bytes (CRLF, Windows-1252) of legacy sources
+*.vbp -text
+*.vbw -text
+*.frm -text
+*.bas -text
+*.cls -text
+*.ini -text
+*.bat -text
+*.BAT -text
+*.frx binary
+*.mdb binary
+*.accdb binary
+*.exe binary
+*.ezt binary
+*.EZP binary
+*.aia binary

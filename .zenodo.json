@@ -1,0 +1,23 @@
+{
+  "title": "InvioReti: distribution of ERP shipment data to the sales networks by e-mail (Visual Basic 6, 2003)",
+  "upload_type": "software",
+  "description": "<p><em>Invio dei dati di spedizione dal gestionale MFG alle reti di vendita</em></p><p>InvioReti is a batch tool with a single window. It extracts the shipped orders from the MFG/PRO ERP, updates the central complaints database and sends to each sales network, by e-mail, the list of new orders shipped to its customers. These messages are the input that the program ComplaintCard reads in each sales office, so that complaint cards can be linked to real orders.</p><p>Designed and programmed by Massimo Sbarbaro in 2003 (Visual Basic 6). Published in 2026; all original data and the names of client organisations have been removed.</p>",
+  "creators": [
+    {
+      "name": "Sbarbaro, Massimo",
+      "orcid": "0009-0006-8965-9013"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Visual Basic 6",
+    "ERP integration",
+    "MFG/PRO",
+    "batch processing",
+    "SMTP",
+    "legacy software"
+  ],
+  "version": "7.1.0",
+  "language": "eng",
+  "notes": "Original development: 2003."
+}
