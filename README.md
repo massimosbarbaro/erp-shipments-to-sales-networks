@@ -1,8 +1,10 @@
 # InvioReti: distribution of ERP shipment data to the sales networks by e-mail
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23186687.svg)](https://doi.org/10.5281/zenodo.23186687)
+
 *Invio dei dati di spedizione dal gestionale MFG alle reti di vendita*
 
-**Visual Basic 6** · 2003 · version 7.1.0  
+2003 · version 7.1.0  
 Author: **Massimo Sbarbaro** ([ORCID 0009-0006-8965-9013](https://orcid.org/0009-0006-8965-9013))
 
 ## Overview
@@ -30,7 +32,7 @@ DAO, Microsoft Access 8 object library, Winsock, Masked Edit, Common Controls.
 
 | Path | Content |
 |---|---|
-| `src/` | Visual Basic 6 project (`.vbp`), forms (`.frm` with their binary resources `.frx`) and modules (`.bas`), as listed in the project file. |
+| `src/` | Project file (`.vbp`), forms (`.frm` with their binary resources `.frx`) and modules (`.bas`), as listed in the project file. |
 | `config-example/` | Templates of the `.ini` configuration files read at start-up, with placeholder values. |
 
 ## What is not included
@@ -39,14 +41,14 @@ Crystal Reports layouts (`.rpt`), compiled executables, installers, scripts for 
 
 ## Related repositories
 
-- [quality-complaints-manager-vb6](https://github.com/massimosbarbaro/quality-complaints-manager-vb6)
-- [complaint-card-sales-network-vb6](https://github.com/massimosbarbaro/complaint-card-sales-network-vb6)
+- [quality-complaints-manager](https://github.com/massimosbarbaro/quality-complaints-manager)
+- [complaint-card-sales-network](https://github.com/massimosbarbaro/complaint-card-sales-network)
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). Each release is archived on Zenodo with its own DOI.
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23186687](https://doi.org/10.5281/zenodo.23186687).
 
-> Sbarbaro, Massimo. *InvioReti: distribution of ERP shipment data to the sales networks by e-mail (Visual Basic 6, 2003)*. Software, version 7.1.0. GitHub: https://github.com/massimosbarbaro/erp-shipments-to-sales-networks-vb6
+> Sbarbaro, Massimo. 2003. *InvioReti: distribution of ERP shipment data to the sales networks by e-mail*. Software (2003), version 7.1.0. Zenodo. https://doi.org/10.5281/zenodo.23186687.
 
 ## License
 

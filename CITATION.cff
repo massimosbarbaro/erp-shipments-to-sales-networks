@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you refer to this software, please cite it as below."
 type: software
-title: "InvioReti: distribution of ERP shipment data to the sales networks by e-mail (Visual Basic 6, 2003)"
+title: "InvioReti: distribution of ERP shipment data to the sales networks by e-mail (2003)"
 version: "7.1.0"
 abstract: "InvioReti is a batch tool with a single window. It extracts the shipped orders from the MFG/PRO ERP, updates the central complaints database and sends to each sales network, by e-mail, the list of new orders shipped to its customers. These messages are the input that the program ComplaintCard reads in each sales office, so that complaint cards can be linked to real orders."
 authors:
@@ -9,7 +9,8 @@ authors:
     given-names: Massimo
     orcid: "https://orcid.org/0009-0006-8965-9013"
 license: MIT
-repository-code: "https://github.com/massimosbarbaro/erp-shipments-to-sales-networks-vb6"
+doi: "10.5281/zenodo.23186687"
+repository-code: "https://github.com/massimosbarbaro/erp-shipments-to-sales-networks"
 keywords:
   - "Visual Basic 6"
   - "ERP integration"
