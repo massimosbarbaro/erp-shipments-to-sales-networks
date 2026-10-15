@@ -22,11 +22,11 @@ I designed and programmed this application in 2003. It is published here in 2026
 
 ## Data
 
-Microsoft Access databases through DAO (staging `$$Temp.mdb` and the central `Reclami.mdb`).
+Databases through DAO (staging `$$Temp.mdb` and the central `Reclami.mdb`).
 
 ## Technology
 
-DAO, Microsoft Access 8 object library, Winsock, Masked Edit, Common Controls.
+DAO, db object library 8, Winsock, Masked Edit, Common Controls.
 
 ## Repository contents
 
