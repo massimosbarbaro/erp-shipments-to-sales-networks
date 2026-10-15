@@ -12,7 +12,6 @@ license: MIT
 doi: "10.5281/zenodo.23186687"
 repository-code: "https://github.com/massimosbarbaro/erp-shipments-to-sales-networks"
 keywords:
-  - "Visual Basic 6"
   - "ERP integration"
   - "MFG/PRO"
   - "batch processing"
